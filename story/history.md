@@ -93,23 +93,19 @@ jetaime夜、左手是恶魔、等5位作品于5月6日-8日屠版成功。**
 "MADfan"合唱9团，走毁团，844520、TT酱的帮助下开展。是MAD新人团主办的第一次大型MAD活动，活动得到了MAD圈广泛的友情支持。计划8月公开作品。  
 2011年8月15日：由盒子及竹内条条等制作第一届新人战宣传CM放出，并定于8.18-8.26日公开全部作品。  
 2011年8月18日：MAD新人战第一日作品公布。总计公开28只MAD作品，本次活动最后的年度新人评选为"秋风""N.ec鱼丸""壱识"
-（[http://www.bilibil](http://jump2.bdimg.com/safecheck/index?url=x+Z5mMbGPAsY/M/Q/im9DRU0hTF/EKDkCN4yUiQD3IqwDz3uPJ0bsxZqh01PJyEIVKbh7ncbqcWbE7yotzqVfz69iqaKYMlBuD8AM60zvpEN0JW7pjPTVTA8Zu4mdgY0)![https://tb2.bdstatic.com/tb/editor/images/face/i  _f03.png?t=20140803](media/image1.png){width="0.30833333333333335in"
-height="0.30833333333333335in"}i.com/sp/BGM-新人团）  
-2011年8月20日：因度娘抽风过强。新人战部分相关报道发布于雪飘论坛上。（flsnow.net/bbs/![https://tb2.bdstatic.com/tb/editor/images/face/i  _f03.png?t=20140803](media/image1.png){width="0.30833333333333335in"
-height="0.30833333333333335in"}thread-29072-1-1.html）  
+（http://www.bilibili.com/sp/BGM-新人团）  
+2011年8月20日：因度娘抽风过强。新人战部分相关报道发布于雪飘论坛上。（flsnow.net/bbs/thread-29072-1-1.html）  
 2011年8月末：新知出现对MAD解释的名词替代。Make a difference。  
 2011年10月-：天上蹲、tjj2222、黯夜影殇、名乃、aimeiliqin、在吧中讨论MAD经常相互交流，
 MAD吧第一次出现回复过百的帖子。同时网吧包夜高产妹"HA露酱"与"天上蹲"在此期间经常发布制作。  
 2011年10月：BGM新年祭2012准备开展，并定于次年2月公布。  
 2011年11月："天上蹲"担任MAD小吧， MADfan诞生三周年。  
 2011年11月22日：**aimeiliqin发布"《AE新手精华总结》AE菜鸟怎么制作一个完整的MAD"帖。主要以制作动漫新视界"青空"为案例。引领了许多新人对MAD的制作。**  
-2011年12月：**土豆动漫首届跨年MAD创作大赛开启，交稿截止1月31日。（因为版权问题。其众多MAD审核未通过）。（[http://zone.tudou.](http://jump2.bdimg.com/safecheck/index?url=x+Z5mMbGPAtpxNOFePIXiq7dNNLzAW00CN4yUiQD3IqwDz3uPJ0bsxZqh01PJyEIVKbh7ncbqcWbE7yotzqVfz69iqaKYMlBuD8AM60zvpEN0JW7pjPTVTA8Zu4mdgY0)**![https://tb2.bdstatic.com/tb/editor/images/face/i  _f03.png?t=20140803](media/image1.png){width="0.30833333333333335in"
-height="0.30833333333333335in"}**com/madpk）**  
+2011年12月：**土豆动漫首届跨年MAD创作大赛开启，交稿截止1月31日。（因为版权问题。其众多MAD审核未通过）。（http://zone.tudou.com/madpk）**  
 2011年12月：MAD吧第一次探讨关于头衔等级制定。  
 2011年12月7日：MADfan宣布暂停服务通知。  
 2011年12月11日：黯夜影殇开设新人有关MAD相关软件的选择及教程。  
-2011年12月14日："kuishu1234"发布每日在线解答关于pluxes，particle，from，表达式问题。（至今仍存在[https://tieba.baidu.com/p/1324063946?red  _tag=](http://jump2.bdimg.com/safecheck/index?url=rN3wPs8te/q5OliqKZYDxPDqAWItH18D/FF0q+Kb9SHjRCiChGPA/EkpsT4oUe+dS8bXACw5d6rY7QXR5cdP48VV6RdJghGP2hjU+xslX3vRRXudJcUqJ+WZgcHBB5ppFOaUgoDK0Cit1HV8XTcfBaDEb67s1F73dj2oeHoEzTI=)![https://tb2.bdstatic.com/tb/editor/images/face/i  _f03.png?t=20140803](media/image1.png){width="0.30833333333333335in"
-height="0.30833333333333335in"}1144718035）  
+2011年12月14日："kuishu1234"发布每日在线解答关于pluxes，particle，from，表达式问题。（至今仍存在https://tieba.baidu.com/p/1324063946?red  _tag=1144718035）  
 2011年12月中旬：搬运工"G线上的魔调"来到吧中宣传 MAD合集推荐第一期。  
 2011年12月末：SKM第四届情人祭于贴吧宣传，于樱舞、雪飘报名。交稿截止次年3月10日。  
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------分割线  
@@ -127,7 +123,7 @@ height="0.30833333333333335in"}1144718035）
 2012年2月：**由于土豆动漫节MAD制作投票过程中"香贡贡鱼丸"票数与第一名相差悬殊，引发大量MADer的不满。且国内各组实力成员响应本次土豆参赛寥寥无几。**  
 2012年2月：吧内开始流行"仿青空"{模仿动画新视界2010夏季片头}相互交流经验并发布制作工程文件。  
 原作品：（
-[[http://www.tudou.com/programs/view/EZloVdPLeYc/]{.underline}](http://jump2.bdimg.com/safecheck/index?url=x+Z5mMbGPAtrDjhT5WpwV0HihhsembcBtI56mEpBJPJYa6hd+8YPZExF3/zfmenrS7Ifqs6egMIE9bgHOSPMkAjeMlIkA9yKsA897jydG7MWaodNTychCFSm4e53G6nFmxO8qLc6lX8+vYqmimDJQbg/ADOtM76RDdCVu6Yz01UwPGbuJnYGNA==)）  
+http://www.tudou.com/programs/view/EZloVdPLeYc/）  
 2012年2月4日：BGM新人祭第一日开启。  
 2012年3月：**吧内开始流行惜枫醉作品"BLACKBOX"的仿制。**  
 2012年3月：由"G弦上的魔调""N.c鱼丸""
