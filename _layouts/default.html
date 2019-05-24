@@ -22,7 +22,7 @@
 
         <p> 这里是MAd/AMV相关的资源、教程、文章与工具的整合地  </p>   
 
-        {% if site.github.is_project_page %}
+       {% if site.github.is_user_page %}
         <p class="view"><a href="{{ "/" | absolute_url }}">首页<small</a></p>
 
         <p class="view"><a href="{{ "/wiki/intro" }}">AE脚本：特效图鉴<small</a></p>
@@ -32,12 +32,11 @@
         <p class="view"><a href="{{ "/wiki/intro" }}">常见问题<small</a></p>
         <p class="view"><a href="{{ "/wiki/intro" }}">MADer往事<small</a></p>
         <p class="view"><a href="{{ "/wiki/intro" }}">有用链接<small</a></p>
-       
         {% endif %}
 
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
+        
+     
+       
 
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -95,9 +94,9 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
+     
         <p>项目作者 <br> <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>/寻根问底1号</p>
-        {% endif %}
+       
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
