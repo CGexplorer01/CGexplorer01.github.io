@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages testing 1
+﻿# 欢迎来到MAD图书馆
 
-You can use the [editor on GitHub](https://github.com/CGexplorer01/CGexplorer01.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+_**网站仍然在建设和完善中，部分链接尚未可用。**_
+  
+本站希望能为MAD/AMV的爱好者提供有用的情报和工具,同时对一些比较珍贵的教程和资料进行备份（主要基于百度mad吧）。目前计划/已包含的功能/板块如下:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [特效图鉴脚本](/wiki/intro) 
+把一些有用的mad/amv效果收录进ae脚本中，使得使用者可以输入想要的特效并做到一键生成。每个效果的制作都参考了特定教程，教程的链接也会被一起收录。
+脚本的本意是希望理解了特效的人能够避免无谓的重复劳动而集中于创作，所以建议先学习相应的教程并了解其原理，以方便根据自己需求进行调整和优化。
 
-### Markdown
+## Mad教程系统整理  
+从入门到精通，包含理论和实例的MAD学习导航，以及一些常用工具和插件的介绍。主要基于百度Mad吧的教程贴和整理贴。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 优秀作品鉴赏
+国内外各种类似的优秀作品推荐。或许会包含每周推荐。
 
-```markdown
-Syntax highlighted code block
+## MAD制作规范
+有关MAD制作的道德和法律方面的需要注意的问题，例如关于三剪和版权问题。
 
-# Header 1
-## Header 2
-### Header 3
+## 常见问题解答
+收录了一些经常会被问到的问题，例如MAD与AMV的关系，如何去除BGM等。
 
-- Bulleted
-- List
+## MAD见闻录
+一些圈子内发生过的往事记录。
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CGexplorer01/CGexplorer01.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
