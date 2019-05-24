@@ -1,4 +1,6 @@
-﻿# Effects-Collection 特效图鉴 
+---
+---
+# Effects-Collection 特效图鉴 
 
 **这个项目仍然在建设中。**    
 [English Introduction](/wiki/intro2)
