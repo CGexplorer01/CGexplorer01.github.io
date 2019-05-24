@@ -1,11 +1,11 @@
 ﻿# Effects-Collection 特效图鉴
 **This project is still under construction.**  
-[中文介绍](/wiki/intro)
+[中文介绍](/wiki/Intro)
 
 ![](/demo/click_demo.png)  
 _Input the desired effect name and generate it with one click._
 
-* For detailed information about installation, usage and available effect list（and the corresponding tutorials）, please refer to [wiki](/wiki/home) (currently mostly written in Chinese)   
+* For detailed information about installation, usage and available effect list（and the corresponding tutorials）, please refer to [wiki](/wiki/Home) (currently mostly written in Chinese)   
 
 ## Introduction
 **Effects Collection** is an After Effects script that allows rapid creation of various effects typically used in MAD/AMV. Effects are implemented based on various tutorials on the Internet. It is created in the hope of speeding up the creation process, while preserving and collecting useful methods/tricks by provding their concrete implementations. Although the plan is to include a growing amount of effects, it may be subject to changes due to author's time and energy restriction and interest in other topics.
