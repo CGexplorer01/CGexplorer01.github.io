@@ -268,14 +268,11 @@ CCTV新科动漫频道与MAD有关商业化的染指引发的争论导致许多M
 2014年1月2日：SKM第六届白色情人祭开始报名。  
 2014年1月4日：第一届Towiko星耀总选举开始报名，初定于6月1日发布。  
 2014年1月7日：**复chou女王发布《2013年选出你最喜欢的原创静止系MAD》投票活动**
-（[[http://www.aejoy.com/bbs/forum.php?mod=viewthread&tid=]{.underline}](http://jump2.bdimg.com/safecheck/index?url=x+Z5mMbGPAuZSvAd3Lur0+YEkSYKF9I1EWC8RIrXPl/J/85CFNE3EbCYpeAhNYzF4YCNryJrJ1zO9eNzmTkKeeZ0HlHJe2blCN4yUiQD3IqwDz3uPJ0bsxZqh01PJyEIVKbh7ncbqcWbE7yotzqVfz69iqaKYMlBuD8AM60zvpEN0JW7pjPTVTA8Zu4mdgY0)![https://tb2.bdstatic.com/tb/editor/images/face/i  _f03.png?t=20140803](media/image1.png){width="0.30833333333333335in"
-height="0.30833333333333335in"}6513&extra=page=1）  
+(http://www.aejoy.com/bbs/forum.php?mod=viewthread&tid=6513&extra=page=1)  
 2014年1月17日：伊藤瞳是我发布MAD和AMV 2013评选活动。  
 2014年2月1日：2014 HARU祭开始公布。
-[[http://www.tucao.tv]{.underline}](http://jump2.bdimg.com/safecheck/index?url=x+Z5mMbGPAtrDjhT5WpwV1PoMCo9nyHzhKkAOgEFFvHFVekXSYIRj9oY1PsbJV970UV7nSXFKiflmYHBwQeaaRTmlIKAytAordR1fF03HwWgxG+u7NRe93Y9qHh6BM0y)![https://tb2.bdstatic.com/tb/editor/images/face/i  _f03.png?t=20140803](media/image1.png){width="0.30833333333333335in"
-height="0.30833333333333335in"}/play/t10/  
-2014年2月8日：2013年选出你最喜欢的原创静止系MAD结果公布。（[[https://pan.baidu.]{.underline}](http://jump2.bdimg.com/safecheck/index?url=rN3wPs8te/pjz8pBqGzzzz3wi8AXlR5gCN4yUiQD3IqwDz3uPJ0bsxZqh01PJyEIVKbh7ncbqcWbE7yotzqVfz69iqaKYMlBuD8AM60zvpEN0JW7pjPTVTA8Zu4mdgY0)![https://tb2.bdstatic.com/tb/editor/images/face/i  _f03.png?t=20140803](media/image1.png){width="0.30833333333333335in"
-height="0.30833333333333335in"}com/s/1pJuckYZ）  
+http://www.tucao.tv/play/t10/  
+2014年2月8日：2013年选出你最喜欢的原创静止系MAD结果公布。（https://pan.baidu.com/s/1pJuckYZ）  
 2014年2月13日：浅蓝昕发布【MAD的AE教程】整合贴。 精帖  
 2014年2月23日：**因群内氛围等多原因，MAD⑨课群解散。**  
 2014年2月27日："快速模糊"在吧中建立"每日一答"为新人解疑。  
@@ -285,8 +282,7 @@ height="0.30833333333333335in"}com/s/1pJuckYZ）
 人生最高赞歌》引发大量批判。**  
 2014年4月：由于big contest
 2013第二名物语系列中涉及Twixtor的创意得到许多追捧。后世开始出现大量竞相模仿者。
-（[[http://amvnews.ru/index.ph]{.underline}](http://jump2.bdimg.com/safecheck/index?url=x+Z5mMbGPAtL7LVftzNb4b8SDBwtXVwLycoZ+MfdezDIBOW9jP8/k8VV6RdJghGP2hjU+xslX3vRRXudJcUqJ+WZgcHBB5ppFOaUgoDK0Cit1HV8XTcfBaDEb67s1F73dj2oeHoEzTI=)![https://tb2.bdstatic.com/tb/editor/images/face/i  _f03.png?t=20140803](media/image1.png){width="0.30833333333333335in"
-height="0.30833333333333335in"}p?go=Files&in=view&id=4941）  
+（http://amvnews.ru/index.php?go=Files&in=view&id=4941）  
 2014年4月1日：玛莎烈啤酒发布AE一键生成Mad发布，版本1.24（伪）  
 2014年4月3日：**ALの天才匡爷开始发布【泷沉琉璃】MAD精选推荐（原萌社区）。资源合集开始透明化。后续也使用"泷沉琉璃MAD组"ID在吧中发布。至今仍存续发布资源合集。**  
 2014年4月4日：MAD新人战2014开始报名。初步公开时间拟8月8日。  
@@ -347,8 +343,7 @@ team  ]开始举办（每位选手提供素材，最后随机分发BGM的一种M
 2015年3月20日："中二的小天使"发布MAD网站国内外合集。  
 2015年3月27日：天朝MADer女装研究委员会成立开始招人。  
 2015年4月：**有关DSSQ(大势所趋) MAD事件引发各方激烈的争论。**  
-2015年4月：专注MAD质量投稿的网站[[http://www.draw]{.underline}](http://jump2.bdimg.com/safecheck/index?url=x+Z5mMbGPAtNxS2jEh2rtGTDBOxXoQiNxVXpF0mCEY/aGNT7GyVfe9FFe50lxSon5ZmBwcEHmmkU5pSCgMrQKK3UdXxdNx8FoMRvruzUXvd2Pah4egTNMg==)![https://tb2.bdstatic.com/tb/editor/images/face/i  _f03.png?t=20140803](media/image1.png){width="0.30833333333333335in"
-height="0.30833333333333335in"}mad.com/建立。开发了强大的线上比赛系统，承办了新人战、haru祭和星耀总选举，并正在后世承办新人战、TIM、长月祭、黄金祭。  
+2015年4月：专注MAD质量投稿的网站http://www.drawmad.com/建立。开发了强大的线上比赛系统，承办了新人战、haru祭和星耀总选举，并正在后世承办新人战、TIM、长月祭、黄金祭。  
 2015年4月：Hentai MAD Team组成立建组祭发布。  
 2015年4月1日：hope祭2015第一日开始公开。  
 2015年4月5日：MAD新人战2015开始报名。初步定于8月15公开。并且调整活动形式为分组对抗模式《新人X组与老手Y组对抗》  
@@ -399,8 +394,7 @@ contest】AMV大赛报名通道正式开启！（一种十分流行的AMV类型�
 2017年2月6日：由若干名MADer之间的赌博交流事件《鸽王的豪赌》发布公示。  
 2017年2月10日：**【麦德学院】2017开始在吧中招生。（以互相交流学习为主要目的加上组织有经验的作者定期开展一些课题探讨的群组织）**  
 2017年2月12日：丁酉年华语MAD文化祭第一日开始公布。  
-2017年2月14日：**【追忆缅怀】林间洒落的柔光------"Umika"和她伟大的作品发布公示。（[[http://www.bilibili.co]{.underline}](http://jump2.bdimg.com/safecheck/index?url=x+Z5mMbGPAsY/M/Q/im9DRU0hTF/EKDk3dFrwVzxrkkI3jJSJAPcirAPPe48nRuzFmqHTU8nIQhUpuHudxupxZsTvKi3OpV/Pr2KpopgyUG4PwAzrTO+kQ3QlbumM9NVMDxm7iZ2BjQ=)**![https://tb2.bdstatic.com/tb/editor/images/face/i  _f09.png?t=20140803](media/image2.png){width="0.30833333333333335in"
-height="0.30833333333333335in"}**m/video/av8607731/）**  
+2017年2月14日：**【追忆缅怀】林间洒落的柔光------"Umika"和她伟大的作品发布公示。（http://www.bilibili.com/video/av8607731/）**  
 2017年2月14日：**drawmad官方交流群成立。**  
 2017年2月15日：由Epic
 M[[  @d]{.underline}](https://tieba.baidu.com/p/4998389754)
