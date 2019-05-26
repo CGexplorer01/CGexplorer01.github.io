@@ -20,4 +20,5 @@ Motion Graphic的简称。通常翻译为动态图形或者运动图形，是指
 
 ### 除了文中引用的来源，本文还参考和借用了：
   [MAD的前世今生(2013-05-28修訂版)](https://archive.is/20130705013430/http://skm-studio.org/bbs/read.php?tid=5086#selection-505.0-505.23)  
-[【Mirai Mad Team】2019黄金祭大赏 启动！](https://tieba.baidu.com/p/6119475720)中对各类型作品的定义
+[【Mirai Mad Team】2019黄金祭大赏 启动！](https://tieba.baidu.com/p/6119475720)  
+中对各类型作品的定义
