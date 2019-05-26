@@ -1,4 +1,4 @@
-﻿# Effects-Collection 特效图鉴
+﻿# []()Effects-Collection 特效图鉴
 **This project is still under construction.**  
 [中文介绍](/wiki/Intro)
 
