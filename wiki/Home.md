@@ -1,4 +1,4 @@
-﻿# Effects Collection 特效图鉴
+﻿# []()Effects Collection 特效图鉴
 
 欢迎来到特效图鉴的中文维基。
 
