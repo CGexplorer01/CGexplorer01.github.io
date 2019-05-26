@@ -1,4 +1,4 @@
-﻿# 毛刺/Glitch
+﻿# []()毛刺/Glitch
 **输入效果名： 毛刺 或 gli**  
                  
 [参考教程地址](https://www.bilibili.com/read/cv884772) 教程作者：冰叹 （bilibili.com）  
