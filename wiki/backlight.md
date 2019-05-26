@@ -1,4 +1,4 @@
-﻿# 背光/Backlight
+﻿# []()背光/Backlight
 **输入效果名： 背光 或 blt**  
                  
 [参考教程地址](https://www.bilibili.com/read/cv876894) 教程作者：冰叹 （bilibili.com）  
