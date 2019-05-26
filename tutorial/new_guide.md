@@ -49,8 +49,8 @@ Maya这两款老牌主力软件也可以了解一下。各3d软件都各有长�
 
 以下的部分链接可能已经失效
 
-国内：
-新建立的[AMV素材库](http://amvscz.com/)   
+国内：     
+[新建AMV素材库](http://amvscz.com/)   
 [新建素材库](http://kissacg.org/)     
 
 [MAD素材库](http://www.madsck.com/forum.php)    
