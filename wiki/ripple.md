@@ -1,4 +1,4 @@
-﻿# 涟漪/Ripple
+﻿# []()涟漪/Ripple
 **输入效果名： 涟漪 或 rpl**  
 [参考教程地址](https://www.bilibili.com/read/cv869529) 教程作者：冰叹 （bilibili.com）  
 需要预先安装 Trapcode Particular 粒子插件  
