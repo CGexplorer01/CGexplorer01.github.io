@@ -1,4 +1,4 @@
-﻿# RGB分离/RGB Separation
+﻿# []()RGB分离/RGB Separation
 **输入效果名： rgb偏移 或 rgbs** （之所以不直接叫rgb分离是想暂时保留这个名字)
                  
 [参考教程地址](https://www.bilibili.com/video/av45622612) 教程作者：丛伊俊Life_studio （bilibili.com）   
