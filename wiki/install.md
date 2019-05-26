@@ -1,4 +1,4 @@
-﻿# 安装和使用
+﻿# []()安装和使用
 
 ## 安装
 点击[主页](https://github.com/CGexplorer01/Effects-Collection)的右上角按钮下载ZIP   
