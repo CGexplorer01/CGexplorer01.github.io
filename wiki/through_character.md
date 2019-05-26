@@ -1,4 +1,4 @@
-﻿# 文字穿梭/Going through 3D characters
+﻿# []()文字穿梭/Going through 3D characters
 **输入效果名： 分为两个步骤： 第一步 文字穿梭1 或 thch1 第二步 文字穿梭2 或 thch2**  
                  
 [参考教程地址](https://www.bilibili.com/video/av45622612) 参考教程作者：丛伊俊Life_studio （bilibili.com）   
