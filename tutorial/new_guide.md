@@ -53,14 +53,14 @@ Maya这两款老牌主力软件也可以了解一下。各3d软件都各有长�
 [新建AMV素材库](http://amvscz.com/)   
 [新建素材库](http://kissacg.org/)     
 
-[MAD素材库](http://www.madsck.com/forum.php)    
 [百度无字幕贴吧](https://tieba.baidu.com/f?kw=动漫无字幕)  
 [动漫花园](https://share.dmhy.org/)  
-[天使花园](http://www.tsdm.net/forum.php)  
 [简单raw](http://www.36dm.com/)  
 [VCB-studio](https://vcb-s.com/)  
-[爱恋动漫](http://www.kisssub.org/)  
 [ACGrip](https://acg.rip/)  
+[爱恋动漫](http://www.kisssub.org/)  （点击无回应）
+[MAD素材库](http://www.madsck.com/forum.php) （已失效）
+[天使花园](http://www.tsdm.net/forum.php) (已失效) 
 
 二、国外（国外搜索请使用**罗马音/日文/英文**）：  
 [nyaa](https://nyaa.si)  
