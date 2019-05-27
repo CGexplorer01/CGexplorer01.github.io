@@ -1,6 +1,6 @@
 ﻿# AMV相关教程
 
- 
+此板块大量参考和使用了Wuyi无疑的 [教程资源整理贴](https://tieba.baidu.com/p/5405972673)成果。由寻根问底1号作修改补充。
 ## 通用技巧
 [新人导航](/tutorial/new_guide)   
 [主要针对纯amv作者的剪辑技巧](https://tieba.baidu.com/p/4043696540 )  
