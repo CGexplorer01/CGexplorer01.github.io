@@ -20,7 +20,7 @@ _此板块大量参考和使用了Wuyi无疑的 [教程资源整理贴](https://
 1.[简单的拉镜转场](https://www.bilibili.com/video/av12411966/)  
 2.[拉镜转场](https://www.bilibili.com/video/av12679051/)  
 3.[转场的两种方法](https://www.bilibili.com/video/av15883454/)  
-4.[眨眼转场](https://www.bilibili.com/video/av12649893/)
+4.[眨眼转场](https://www.bilibili.com/video/av12649893/)  
 5.[颜色过渡](https://www.bilibili.com/video/av1961053/)  
 6.[拉镜](https://www.bilibili.com/video/av7335620/)  
 7.[抠图转场](https://www.bilibili.com/video/av7847957/)  
