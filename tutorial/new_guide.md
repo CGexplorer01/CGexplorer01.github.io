@@ -47,8 +47,6 @@ Maya这两款老牌主力软件也可以了解一下。各3d软件都各有长�
 
 ## 资源查找
 
-以下的部分链接可能已经失效
-
 国内：     
 [新建AMV素材库](http://amvscz.com/)   
 [新建素材库](http://kissacg.org/)     
@@ -77,8 +75,9 @@ Maya这两款老牌主力软件也可以了解一下。各3d软件都各有长�
 音效资源------[爱给网](http://www.aigei.com/)  
 音效资源------[站长素材](http://sc.chinaz.com/yinxiao/)  
 
-字幕资源------http://www.zimucang.com/  
-字幕资源------http://subhd.com/main0  
+字幕资源------ http://subhd.com/main0    
+字幕资源------ http://www.zimucang.com/ （已失效）    
+
 
 ## 基础教程  
 
