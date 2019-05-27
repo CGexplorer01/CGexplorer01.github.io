@@ -4,7 +4,7 @@ _此板块大量参考和使用了Wuyi无疑的 [教程资源整理贴](https://
 ## 通用技巧
 [新人导航](/tutorial/new_guide)   
 [主要针对纯amv作者的剪辑技巧](https://tieba.baidu.com/p/4043696540 )  
-[一些效果的制作方法]（/tutorial/effects/）
+[一些效果的制作方法](/tutorial/effects/)
 
 [截图找原动漫](https://whatanime.ga/)(已失效)   
 ### 抠图教程：
