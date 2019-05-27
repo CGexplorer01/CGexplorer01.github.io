@@ -4,7 +4,7 @@
 ## 通用技巧
 [新人导航](/tutorial/new_guide)   
 [主要针对纯amv作者的剪辑技巧](https://tieba.baidu.com/p/4043696540 )  
-[截图找原动漫](https://whatanime.ga/)   
+[截图找原动漫](https://whatanime.ga/)(已失效)   
 ### 抠图教程：
 [总论](https://www.zhihu.com/question/56033672)    
 1. [钢笔抠图](https://www.bilibili.com/video/av9173375/)  
