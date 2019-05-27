@@ -57,10 +57,10 @@ Maya这两款老牌主力软件也可以了解一下。各3d软件都各有长�
 [动漫花园](https://share.dmhy.org/)  
 [简单raw](http://www.36dm.com/)  
 [VCB-studio](https://vcb-s.com/)  
-[ACGrip](https://acg.rip/)  
-[爱恋动漫](http://www.kisssub.org/)  （点击无回应）
-[MAD素材库](http://www.madsck.com/forum.php) （已失效）
-[天使花园](http://www.tsdm.net/forum.php) (已失效) 
+[ACGrip](https://acg.rip/)    
+[爱恋动漫](http://www.kisssub.org/)  （点击无回应）  
+[MAD素材库](http://www.madsck.com/forum.php) （已失效）  
+[天使花园](http://www.tsdm.net/forum.php) (已失效)   
 
 二、国外（国外搜索请使用**罗马音/日文/英文**）：  
 [nyaa](https://nyaa.si)  
