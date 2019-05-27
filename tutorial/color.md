@@ -10,7 +10,7 @@
 7.[名词概念和调色技巧](http://www.bilibili.com/read/cv74166)  
 8.[调色理论基础](/http://www.bilibili.com/read/cv144290)  
 9.[色彩的构成与理解](https://tieba.baidu.com/p/3744776962)  
-10.[色彩构成](https://www.bilibili.com/video/av7800771/)  
+10.[色彩构成](https://www.bilibili.com/video/av7800771/)    
 
-[配色脚本](https://tieba.baidu.com/p/4572276701) 
-[色彩匹配插件（效果不是很好）](http://tieba.baidu.com/p/5343546809)  
+[配色脚本](https://tieba.baidu.com/p/4572276701)   
+[色彩匹配插件（效果不是很好）](http://tieba.baidu.com/p/5343546809)    
