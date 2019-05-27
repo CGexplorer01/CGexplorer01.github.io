@@ -1,5 +1,5 @@
 ﻿# []()调色教程
-_此板块大量参考和使用了Wuyi无疑的 [教程资源整理贴](https://tieba.baidu.com/p/5405972673)成果。由寻根问底1号作修改补充。_
+_此板块大量参考和使用了Wuyi无疑的 [教程资源整理贴](https://tieba.baidu.com/p/5405972673)成果。由寻根问底1号作修改补充。_  
 
 [色彩原理](https://tieba.baidu.com/p/3744776962)  
 1.[学习配色](https://www.bilibili.com/video/av7455083/)  
