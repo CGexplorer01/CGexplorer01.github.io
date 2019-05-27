@@ -4,6 +4,8 @@
 ## 通用技巧
 [新人导航](/tutorial/new_guide)   
 [主要针对纯amv作者的剪辑技巧](https://tieba.baidu.com/p/4043696540 )  
+[一些效果的制作方法]（/tutorial/effects/）
+
 [截图找原动漫](https://whatanime.ga/)(已失效)   
 ### 抠图教程：
 [总论](https://www.zhihu.com/question/56033672)    
@@ -27,15 +29,7 @@
 10.[旋转拉镜](https://www.bilibili.com/video/av15528304/)  
 
 ### 调色  
-[色彩原理](https://tieba.baidu.com/p/3744776962)  
-1.[色彩匹配插件（效果不是很好）](http://tieba.baidu.com/p/5343546809)  
-2.[手动调色](https://www.bilibili.com/video/av3038600/)  
-3.[三色改图](https://tieba.baidu.com/p/2554359727)  
-4.[给新手的调色教程](https://www.bilibili.com/video/av2710706/)  
-5.[AE调色教程](http://v.youku.com/v_show/id_XMjc1OTk5MTYw.html)  
-6.[调色原理与色彩匹配](http://v.youku.com/v_show/id_XMjY0NTM0Mzgw.html)  
-7.[名词概念和调色技巧](http://www.bilibili.com/read/cv74166)
-8.[调色理论基础](/http://www.bilibili.com/read/cv144290)
+调色教程[/tutorial/color]
 
 ## 剧情·误解系  
 [什么是误解系？](https://www.bilibili.com/video/av6005605/)
