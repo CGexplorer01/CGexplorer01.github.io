@@ -65,10 +65,10 @@ Maya这两款老牌主力软件也可以了解一下。各3d软件都各有长�
 二、国外（国外搜索请使用**罗马音/日文/英文**）：  
 [nyaa](https://nyaa.si)  
 [leopard-raws](http://leopard-raws.org/)  
-[KOLEKSI RAW ANIME](http://portal.koleksi-raw.blue/home/)  
 [yousei raw](https://yousei-raws.org/)  
 [东京图书馆](https://www.tokyotosho.info/)  
-[ohys-raws](http://www.shanaproject.com/subbertag/2106/)  
+[ohys-raws](http://www.shanaproject.com/subbertag/2106/)     
+[KOLEKSI RAW ANIME](http://portal.koleksi-raw.blue/home/) (已失效)     
 
 **不知道动漫的罗马音/日文**？  
 [番组计划](http://bangumi.tv/)    
