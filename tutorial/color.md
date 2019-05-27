@@ -1,7 +1,7 @@
 ﻿# []()调色教程
 
 [色彩原理](https://tieba.baidu.com/p/3744776962)  
-1.[学习配色](https://www.bilibili.com/video/av7455083/)
+1.[学习配色](https://www.bilibili.com/video/av7455083/)  
 2.[手动调色](https://www.bilibili.com/video/av3038600/)  
 3.[三色改图](https://tieba.baidu.com/p/2554359727)  
 4.[给新手的调色教程](https://www.bilibili.com/video/av2710706/)  
