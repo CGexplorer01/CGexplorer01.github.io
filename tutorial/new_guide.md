@@ -45,6 +45,7 @@ Maya这两款老牌主力软件也可以了解一下。各3d软件都各有长�
 
 由VR分享的批量[MKV转MP4工具](http://pan.baidu.com/s/1dFtTyOL) 密码：Wuyi
 
+<a name="resource"/>  
 ## 资源查找
 
 国内：     
