@@ -7,10 +7,10 @@
 [截图找原动漫](https://whatanime.ga/)(已失效)   
 ### 抠图教程：
 [总论](https://www.zhihu.com/question/56033672)    
-1. [钢笔抠图](https://www.bilibili.com/video/av9173375/)  
-2. [Powermatte](https://www.bilibili.com/video/av14044042/)   
-3. [Roto抠图](https://www.bilibili.com/video/av12435459/)  
-4. AE效果-提取：直接添加即可，可以提取亮光，素材要求不高的时候可以使用  
+1.[钢笔抠图](https://www.bilibili.com/video/av9173375/)  
+2.[Powermatte](https://www.bilibili.com/video/av14044042/)   
+3.[Roto抠图](https://www.bilibili.com/video/av12435459/)  
+4.AE效果-提取：直接添加即可，可以提取亮光，素材要求不高的时候可以使用  
 
 
 ### 转场教程：
