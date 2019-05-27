@@ -29,7 +29,7 @@
 10.[旋转拉镜](https://www.bilibili.com/video/av15528304/)  
 
 ### 调色  
-调色教程[/tutorial/color]
+[调色教程](/tutorial/color)
 
 ## 剧情·误解系  
 [什么是误解系？](https://www.bilibili.com/video/av6005605/)
