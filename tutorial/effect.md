@@ -27,7 +27,7 @@
 [花朵](https://tieba.baidu.com/p/1979118834)  
 [火焰](https://tieba.baidu.com/p/3731638255)  
 [另一种火焰](https://tieba.baidu.com/p/3175393469)  
-[星轨](https://www.bilibili.com/video/av1647567/)
+[星轨](https://www.bilibili.com/video/av1647567/)  
 [制作水母](https://tieba.baidu.com/p/1787048112) 
 ## 场景搭建
 [天使的阶梯](https://tieba.baidu.com/p/3611611029)   
