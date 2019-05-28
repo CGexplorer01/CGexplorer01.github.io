@@ -27,7 +27,7 @@
 [另一种火焰](https://tieba.baidu.com/p/3175393469)  
 [星轨](https://www.bilibili.com/video/av1647567/)
 [制作水母](https://tieba.baidu.com/p/1787048112) 
-## 场面搭建
+## 场景搭建
 [天使的阶梯](https://tieba.baidu.com/p/3611611029)   
 [照片桌子摆放动画](https://www.bilibili.com/video/av13513699/)    
 [下雨天路灯的搭建](https://www.bilibili.com/video/av3102294/)    
