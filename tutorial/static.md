@@ -49,10 +49,10 @@ _此板块大量参考和使用了Wuyi无疑的 [教程资源整理贴](https://
 [MG教程](/n/0)
 
 ## 制作技巧  
-[一些效果的制作方法](/tutorial/effect)
-[静止系入门](https://www.bilibili.com/video/av4834708/)   
-[静止系背景搭建](http://www.bilibili.com/read/cv53505/)    
-[分镜合成思路](https://www.bilibili.com/video/av6745199/)   
+[一些效果的制作方法](/tutorial/effect)  
+[静止系入门](https://www.bilibili.com/video/av4834708/)     
+[静止系背景搭建](http://www.bilibili.com/read/cv53505/)      
+[分镜合成思路](https://www.bilibili.com/video/av6745199/)     
 
 ### 行为动画  
 1.[表情替换](https://www.bilibili.com/video/av6290887/)  
