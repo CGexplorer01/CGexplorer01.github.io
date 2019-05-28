@@ -1,13 +1,13 @@
 ﻿# []()AMV相关教程
 
 _此板块大量参考和使用了Wuyi无疑的 [教程资源整理贴](https://tieba.baidu.com/p/5405972673)成果。由寻根问底1号作修改补充。_
-## 通用技巧
+## 一、通用技巧
 [新人导航中的教程](/tutorial/new_guide#no5)   
 [一些效果的实现方法](/tutorial/effect)
 
 [截图找原动漫](https://whatanime.ga/)(已失效)   
 
-### 镜头/剪辑/节奏  
+### 1.1 镜头/剪辑/节奏  
 [镜头的快速切换](https://www.bilibili.com/video/av4679779/)    
 [让你的视频有节奏感---Trap/Rap AMV风格教学](https://www.bilibili.com/video/av16878954)        
 
@@ -16,17 +16,18 @@ _此板块大量参考和使用了Wuyi无疑的 [教程资源整理贴](https://
 [理论和杂谈](https://tieba.baidu.com/p/5017964204)  
 [认识镜头，镜头拼接的法则](https://tieba.baidu.com/p/5078701229)  
 [镜头语言与分镜艺术](https://www.bilibili.com/video/av6678023)  
-### 抠图教程： 
+
+### 1.2 抠图教程： 
 [总论](https://www.zhihu.com/question/56033672)    
 1.[钢笔抠图](https://www.bilibili.com/video/av9173375/)  
-2.[Powermatte](https://www.bilibili.com/video/av14044042/)   
+2.[Powermatte抠图](https://www.bilibili.com/video/av14044042/)   
 3.[Roto抠图](https://www.bilibili.com/video/av12435459/)  
 4.AE效果-提取：直接添加即可，可以提取亮光，素材要求不高的时候可以使用
 
 [抠图与人物进场](https://www.bilibili.com/video/av6154836/)  
 
 
-### 转场教程：
+### 1.3 转场教程：
 [总论](https://tieba.baidu.com/p/2187642892)  
 [常见转场效果手法原理](http://blog.sina.com.cn/s/blog_c6df42ca0102w77k.html)  
 
@@ -41,10 +42,10 @@ _此板块大量参考和使用了Wuyi无疑的 [教程资源整理贴](https://
 9.[变焦转场](https://www.bilibili.com/video/av12762479/)  
 10.[旋转拉镜](https://www.bilibili.com/video/av15528304/)  
 
-### 调色  
+### 1.4 调色  
 [调色教程](/tutorial/color)
 
-## 剧情·误解系  
+## 二、剧情·误解系  
 [什么是误解系？](https://www.bilibili.com/video/av6005605/)
 
 1.[Umika——Our Tapes（纯爱误解）](https://www.bilibili.com/video/av345660/)  
