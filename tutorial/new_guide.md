@@ -98,13 +98,7 @@ Maya这两款老牌主力软件也可以了解一下。各3d软件都各有长�
 
 [触手之路第1季](http://www.bilibili.com/video/av660824/)和[1.5季](https://www.bilibili.com/video/av780499/)
 
-### 剪辑理论教程（供参考，酌情观看）
-
-[理论和杂谈](https://tieba.baidu.com/p/5017964204)
-
-[认识镜头，镜头拼接的法则](https://tieba.baidu.com/p/5078701229)
-
-[镜头语言与分镜艺术](https://www.bilibili.com/video/av6678023)
+### 
 
 ### MAD/AMV入门教程  
 
@@ -112,14 +106,10 @@ Maya这两款老牌主力软件也可以了解一下。各3d软件都各有长�
 [新人教程2](https://www.bilibili.com/video/av30179157)    
 [标准化AMV教程](https://www.bilibili.com/read/cv297647)    
 
-**一些效果的实现**   
-[抠图与人物进场](https://www.bilibili.com/video/av6154836/)  
-[离RGB简易方法几则](https://zhuanlan.zhihu.com/p/25694078)  
-[常见转场效果手法原理](http://blog.sina.com.cn/s/blog_c6df42ca0102w77k.html)  
-[浅蓝昕的AE触手养成教室](http://www.bilibili.com/video/av1019290/)  
-[视觉系MAD中常用的混合模式](https://www.bilibili.com/video/av12983861/)  
-[镜头的快速切换](https://www.bilibili.com/video/av4679779/)  
-[让你的视频有节奏感---Trap/Rap AMV风格教学](https://www.bilibili.com/video/av16878954)      
+### 特化教程
+[AMV教程](/tutorial/AMV)  
+[静止系MAD教程](/tutorial/static)  
+[一些效果的实现方法](/tutorial/effect)  
 
 ### 常用AE插件
 **Trapcode Particular**    
