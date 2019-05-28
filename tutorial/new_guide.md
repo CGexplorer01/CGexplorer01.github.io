@@ -3,7 +3,7 @@
 
 ## 目录  
 [基本概念和审美培养](#no1)  
-[软件选择](#no2)  
+[主软件选择](#no2)  
 [视频转换和压制](#no3)  
 [资源查找](#resource)  
 [基础教程](#no5)  
@@ -11,7 +11,7 @@
 
 <a name="no1"/>
 
-## 基本概念和审美培养
+## 一、基本概念和审美培养
 **[MAD和AMV的区别和联系](/clarification/dictionary)**
 
 **[优秀作品鉴赏]()**
@@ -20,11 +20,11 @@
 
 <a name="no2"/>
 
-## 主软件的选择
+## 二、主软件的选择
 
 有条件请支持官方正版。由于资源随时可能失效，请善用网上搜索，建议首先到相应的贴吧查找。部分软件的资源见[此贴3楼](https://tieba.baidu.com/p/5405972673)。
 
-### 标准
+### 2.1 标准
 
 一般的标准配置为剪辑用Adobe Premier（pr），特效用Adobe After
 Effects(ae)。如果电脑性能好也可以直接用ae完成剪辑和特效。当然也可以用Sony
@@ -33,7 +33,7 @@ Vegas制作视频，不过不一定比得上pr和ae的组合。（笔者没用�
 此外还可以使用Adobe系列的其他软件，例如Audition处理音频，Photoshop处理图片，Media
 Encoder输出视频，Illustrator处理矢量图。
 
-### 进阶软件
+### 2.2 进阶软件
 
 配合使用3d软件能够极大地拓宽可能性。目前MAD圈一般推荐Cinema
 4D（上手快效果好，能与ae联动），个人则是比较推荐Blender
@@ -45,7 +45,7 @@ Maya这两款老牌主力软件也可以了解一下。各3d软件都各有长�
 
 <a name="no3"/>
 
-**视频转换和压制**
+## 三、视频转换和压制
 
 由于输出的原视频往往体积大码率高，不方便上传到网络，所以需要进行压制。有时也需要进行视频格式转换。
 
@@ -61,7 +61,7 @@ Maya这两款老牌主力软件也可以了解一下。各3d软件都各有长�
 
 <a name="resource"/> 
 
-## 资源查找
+## 四、资源查找
 
 国内：     
 [新建素材库](http://kissacg.org/)  
@@ -76,7 +76,7 @@ Maya这两款老牌主力软件也可以了解一下。各3d软件都各有长�
 [MAD素材库](http://www.madsck.com/forum.php) （已失效）  
 [天使花园](http://www.tsdm.net/forum.php) (已失效)   
 
-二、国外（国外搜索请使用**罗马音/日文/英文**）：  
+国外（国外搜索请使用**罗马音/日文/英文**）：  
 [nyaa](https://nyaa.si)  
 [leopard-raws](http://leopard-raws.org/)  
 [yousei raw](https://yousei-raws.org/)  
@@ -96,37 +96,37 @@ Maya这两款老牌主力软件也可以了解一下。各3d软件都各有长�
 
 <a name="no5"/>
 
-## 基础教程  
+## 五、基础教程  
 
-### PR基础教程  
+### 5.1 PR基础教程  
 
 [Doyoudo的基础教程](https://www.bilibili.com/video/av3504428/)  
 [pr新手入门基础教程](https://www.bilibili.com/video/av6835007/)  
 
-### AE基础教程    
+### 5.2 AE基础教程    
 [AK大神的AE入门教程](https://www.bilibili.com/video/av36459549)
 [原地址](http://www.videocopilot.net/basic/)     
 
 [柏吃支醉的AE基础教程](https://www.bilibili.com/video/av7425619/)  
 
-### PR+AE基础教程  
+### 5.3 PR+AE基础教程  
 
 [触手之路第1季](http://www.bilibili.com/video/av660824/)和[1.5季](https://www.bilibili.com/video/av780499/)
 
-### MAD/AMV入门教程  
+### 5.4 MAD/AMV入门教程  
 
 [新人教程1](https://www.bilibili.com/video/av4438182/)   
 [新人教程2](https://www.bilibili.com/video/av30179157)    
 [标准化AMV教程](https://www.bilibili.com/read/cv297647)    
 
-### 进阶教程
+### 5.5 进阶教程
 [AMV教程](/tutorial/AMV)  
 [静止系MAD教程](/tutorial/static)  
 [一些效果的实现方法](/tutorial/effect)  
 
 <a name="no6"/>
 
-### 常用AE插件教程
+### 5.6 常用AE插件教程
 **Trapcode Particular**    
 [P粒子基础教程](https://www.bilibili.com/video/av1018683/)    
 [P粒子高端教程](http://pan.baidu.com/s/1dFpjK45) 密码：Wuyi    
