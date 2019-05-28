@@ -45,7 +45,7 @@
 [leolide——大佬 CANCUR CANDY（D-Contest）](https://www.bilibili.com/video/av14718808/)  
 [HMyopia——就地取材（BILIBILI 创想无双）](https://www.bilibili.com/video/av12048009/)
 
-### 特殊分类：
+### 其它分类：
 1.   补帧  
 [lolligerjoj——Into The Labyrinth【化・伪・猫】（Big Contest 第二名）](http://www.bilibili.com/video/av511692/)  
 
