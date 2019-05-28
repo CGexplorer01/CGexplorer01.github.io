@@ -3,7 +3,7 @@
 _此板块大量参考和使用了Wuyi无疑的 [教程资源整理贴](https://tieba.baidu.com/p/5405972673)成果。由寻根问底1号作修改补充。_
 ## 通用技巧
 [新人导航中的教程](/tutorial/new_guide#no5)   
-[一些效果的制作方法](/tutorial/effect/)
+[一些效果的制作方法](/tutorial/effect)
 
 [截图找原动漫](https://whatanime.ga/)(已失效)   
 
