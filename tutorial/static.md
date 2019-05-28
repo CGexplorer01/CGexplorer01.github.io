@@ -47,10 +47,10 @@
 [MG教程](/n/0)
 
 ## 制作技巧  
-[静止系入门](https://www.bilibili.com/video/av4834708/) 
-[一些效果的制作方法](/n/0)   
-[背景搭建](http://www.bilibili.com/read/cv53505/)  
-[分镜合成思路](https://www.bilibili.com/video/av6745199/）  
+[静止系入门](https://www.bilibili.com/video/av4834708/)   
+[一些效果的制作方法](/n/0)     
+[背景搭建](http://www.bilibili.com/read/cv53505/)    
+[分镜合成思路](https://www.bilibili.com/video/av6745199/)   
 
 ### 行为动画  
 1.[表情替换](https://www.bilibili.com/video/av6290887/)  
