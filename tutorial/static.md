@@ -1,10 +1,10 @@
 ﻿# []()静止系MAD教程
 _此板块大量参考和使用了Wuyi无疑的 [教程资源整理贴](https://tieba.baidu.com/p/5405972673)成果。由寻根问底1号作修改补充。_  
 
-## 基本概念
+## 一、基本概念
 [什么是静止系？为什么要做静止系？静止系为何小众？](https://www.bilibili.com/video/av7160470/)
 
-## 静止系鉴赏
+## 二、静止系鉴赏
 观看时请注意，每个画面的构图，色彩，元素的融合等。     
 
 **漫画系：**  
@@ -18,18 +18,18 @@ _此板块大量参考和使用了Wuyi无疑的 [教程资源整理贴](https://
 **混合型静止**   
 [忆丶缘——即使无数次满开，也要守护着（RE:birth创作祭 第四日）](http://www.bilibili.com/video/av15939414/#page=2)  
 
-## 构图  
+## 三、构图  
 [构图的基本理论](https://tieba.baidu.com/p/1699410947)  
 [构图与配色](https://tieba.baidu.com/p/3751890486)  
 [学习构图](https://www.bilibili.com/video/av6509670/)  
 
-## 调色
+## 四、调色
 [调色教程](/tutorial/color)
 
-## 文案
+## 五、文案
 [策划编写MAD文案](http://lovebusu.com/ru-he-ce-hua-he-bian-xie-hao-yi-ge-jing-zhi-hua-mad-wen-an/)
 
-## 制作素材的寻找
+## 六、制作素材的寻找
 必要的话可以用日文或者罗马音搜
 
 [其它资源](/tutorial/new_guide#resource)
@@ -48,9 +48,9 @@ _此板块大量参考和使用了Wuyi无疑的 [教程资源整理贴](https://
 **MG系：**    
 [MG教程](/n/0)
 
-## 制作技巧  
+## 七、制作技巧  
 [新人导航里的教程](/tutorial/new_guide#no5)  
-[一些效果的制作方法](/tutorial/effect)  
+[一些效果的制作方法](/tutorial/effect) (大量教程)  
 [静止系入门](https://www.bilibili.com/video/av4834708/)     
 [静止系背景搭建](http://www.bilibili.com/read/cv53505/)      
 [分镜合成思路](https://www.bilibili.com/video/av6745199/)     
