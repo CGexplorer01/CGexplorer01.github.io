@@ -5,6 +5,8 @@
 [AMV相关教程](/tutorial/AMV)  
 [静止系MAD相关教程](/tutorial/static)  
 
+## [已加入特效图鉴的效果](/wiki/effect_list)
+
 ## 综合
 [环形动画，仿青空，电频闪光，广景和刀光-静止燃](http://www.bilibili.com/video/av1019290/)   
 [分形杂色的应用](https://tieba.baidu.com/p/861919516)    
