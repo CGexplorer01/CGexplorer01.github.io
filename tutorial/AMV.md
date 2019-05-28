@@ -10,7 +10,7 @@ _此板块大量参考和使用了Wuyi无疑的 [教程资源整理贴](https://
 [让你的视频有节奏感---Trap/Rap AMV风格教学](https://www.bilibili.com/video/av16878954)  
 [主要针对纯amv作者的剪辑技巧](https://tieba.baidu.com/p/4043696540 )  
 
-剪辑理论教程（供参考，酌情观看）  
+**剪辑理论教程**（供参考，酌情观看）  
 [理论和杂谈](https://tieba.baidu.com/p/5017964204)  
 [认识镜头，镜头拼接的法则](https://tieba.baidu.com/p/5078701229)  
 [镜头语言与分镜艺术](https://www.bilibili.com/video/av6678023)  
