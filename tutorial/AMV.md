@@ -3,20 +3,33 @@
 _此板块大量参考和使用了Wuyi无疑的 [教程资源整理贴](https://tieba.baidu.com/p/5405972673)成果。由寻根问底1号作修改补充。_
 ## 通用技巧
 [新人导航](/tutorial/new_guide)   
-[主要针对纯amv作者的剪辑技巧](https://tieba.baidu.com/p/4043696540 )  
-[一些效果的制作方法](/tutorial/effects/)
+[一些效果的制作方法](/tutorial/effect/)
 
 [截图找原动漫](https://whatanime.ga/)(已失效)   
-### 抠图教程：
+
+### 镜头/剪辑/节奏  
+[镜头的快速切换](https://www.bilibili.com/video/av4679779/)    
+[让你的视频有节奏感---Trap/Rap AMV风格教学](https://www.bilibili.com/video/av16878954)        
+
+剪辑理论教程（供参考，酌情观看）  
+[主要针对纯amv作者的剪辑技巧](https://tieba.baidu.com/p/4043696540 )   
+[理论和杂谈](https://tieba.baidu.com/p/5017964204)  
+[认识镜头，镜头拼接的法则](https://tieba.baidu.com/p/5078701229)  
+[镜头语言与分镜艺术](https://www.bilibili.com/video/av6678023)  
+### 抠图教程： 
 [总论](https://www.zhihu.com/question/56033672)    
 1.[钢笔抠图](https://www.bilibili.com/video/av9173375/)  
 2.[Powermatte](https://www.bilibili.com/video/av14044042/)   
 3.[Roto抠图](https://www.bilibili.com/video/av12435459/)  
-4.AE效果-提取：直接添加即可，可以提取亮光，素材要求不高的时候可以使用  
+4.AE效果-提取：直接添加即可，可以提取亮光，素材要求不高的时候可以使用
+
+[抠图与人物进场](https://www.bilibili.com/video/av6154836/)  
 
 
 ### 转场教程：
 [总论](https://tieba.baidu.com/p/2187642892)  
+[常见转场效果手法原理](http://blog.sina.com.cn/s/blog_c6df42ca0102w77k.html)  
+
 1.[简单的拉镜转场](https://www.bilibili.com/video/av12411966/)  
 2.[拉镜转场](https://www.bilibili.com/video/av12679051/)  
 3.[转场的两种方法](https://www.bilibili.com/video/av15883454/)  
