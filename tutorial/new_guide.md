@@ -21,7 +21,7 @@ Vegas制作视频，不过不一定比得上pr和ae的组合。（笔者没用�
 此外还可以使用Adobe系列的其他软件，例如Audition处理音频，Photoshop处理图片，Media
 Encoder输出视频，Illustrator处理矢量图。
 
-### 进阶
+### 进阶软件
 
 配合使用3d软件能够极大地拓宽可能性。目前MAD圈一般推荐Cinema
 4D（上手快效果好，能与ae联动），个人则是比较推荐Blender
@@ -106,7 +106,7 @@ Maya这两款老牌主力软件也可以了解一下。各3d软件都各有长�
 [新人教程2](https://www.bilibili.com/video/av30179157)    
 [标准化AMV教程](https://www.bilibili.com/read/cv297647)    
 
-### 特化教程
+### 进阶教程
 [AMV教程](/tutorial/AMV)  
 [静止系MAD教程](/tutorial/static)  
 [一些效果的实现方法](/tutorial/effect)  
