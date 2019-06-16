@@ -1,0 +1,47 @@
+﻿<!-- Html Elements for Search -->
+
+ <p ><a href="/">返回首页</a> </p >
+
+<div id="search-container">
+ <input type="text" id="search-input" placeholder="请输入搜索关键词">
+ <ul id="results-container"></ul>
+</div>
+
+ 
+
+<!-- Script pointing to search-script.js -->
+<script src="/js/simple-jekyll-search.min.js"></script>
+
+
+
+<!-- Configuration -->
+<script>
+window.simpleJekyllSearch = new SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json',
+ searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+ noResultsText: '没有搜索到结果'
+})
+</script>
+
+<style type="text/css">
+   input {width: 50%;
+           color:black;
+           font-size: 20px;
+           position: absolute;
+  bottom: 60%;
+  right: 25%;
+  border-style: solid;
+  border-width: 5px;
+               }
+
+ ul {
+           color:black;
+           font-size: 20px;
+           position: absolute;
+  top: 40%;
+  right: 50%;
+               }
+        
+      </style>
