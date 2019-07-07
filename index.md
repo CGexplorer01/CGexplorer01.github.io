@@ -24,6 +24,6 @@ _**部分来自百度贴吧的链接暂时无法使用。**_
 ## [MADer往事](/story/content)
 一些圈子内发生过的往事记录。
 
-## [相关链接](/story/content)
+## [相关链接](/links/content)
 与MAD有关的网站。关于资源网站请参考[这里](/tutorial/new_guide#resource)。
 
