@@ -1,0 +1,2 @@
+# Disclaimer:
+These are MAD tutorials extracted from https://tieba.baidu.com/f/good?kw=mad&ie=utf-8&cid=4 for the purpose of study and archiving only. The tutorials were extracted with a script and the repository owner didn't censor their contents, but instead rely on the censorship of the source website.
